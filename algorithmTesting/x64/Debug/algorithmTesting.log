@@ -1,0 +1,3 @@
+﻿  algorithmTesting.cpp
+C:\Users\Acer\Desktop\workspace\Algorithm\algorithmTesting\algorithmTesting.cpp(624,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  algorithmTesting.vcxproj -> C:\Users\Acer\Desktop\workspace\Algorithm\algorithmTesting\x64\Debug\algorithmTesting.exe
